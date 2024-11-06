@@ -1,7 +1,15 @@
 # Matplotlib and pyplot
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+## P3: Employ Matplotlib, pyplot & Engage
+
+* Cloned project down to my local machine
+* Activated venv virtual environment
+* Added venv to gitignore file
+* Completed the tasks described in the assignment
+* Exported my notebook as HTML
+* Updated README file
+* Saved changes
+* Pushed my commit up to my Github repo
 
 ## Rubric
 
